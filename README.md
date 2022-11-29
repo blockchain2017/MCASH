@@ -1,4 +1,4 @@
-# Mcash Marketplace Platform , Payment gateway platform
+# Crypto Marketplace for eGift cards and eCommerce Products
 
 <div align="center"><img src="https://mms-soilminerals.com/wp-content/uploads/2022/11/logo.png)" /><br />
 </div>
