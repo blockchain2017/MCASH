@@ -9,24 +9,15 @@
 </div>
 
 
-# Mcash Marketplace Platform
+# MGP Marketplace Platform
 
-Mcash Marketplace is an ecommerce platform. We have many products available for sale from members. We use Mcash as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through Chaiyocoin will receive a 10% discount on every transaction.
+MGP Mall Marketplace is an ecommerce platform. We have products from many business groups that have joined us as partners by using MMS Cash as a medium of payment on the platform. MGP Mall has compiled each category of products to facilitate the search for products. Convenient and secure payment The system will connect to Wallet and press to pay automatically. just a few steps And every transaction made through MMS Cash will receive a 10% discount on every transaction. The procedure is easy to use. Press to pay for the product, connect to the wallet, press to confirm the payment. Verify transactions via blockchain, convenient and secure.
 
-# Payment system
-Mcash ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+# Payment gateway
+User MMS Coin 70%, MMS Cash 305 in MGP Shoppingmall. All transactions on the MGP Mall platform use MMS Cash as a payment gateway. Every transaction is verifiable. We have Partners participating in many MMS Cash projects such as Defi, Staking, Forex, NFTs, Gaming, Trading, Lending, Teaching how to trade..
 
-# Mcash Stake
-Step-by-Step Stake Rewards
-
-1. Buy token on exchange
-BNB coin in wallet. Connect wallet and buy token recieve automatic
-
-2. Keep coins in our wallet
-Go to swap platform. First connect & confirm wallet, select day token lock, transfer CYC token to the system and comfirm a stake.
-
-3. Enjoy regular profits
-You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
+# Stake rewards
+Staking is an easy way to earn rewards on your crypto whilst putting your digital assets to good use to help stabilize the network. The blockchain will use your crypto to ensure all transactions are verified and secured, called ‘Proof of Stake’, and you will receive more crypto for doing so..
 
 # Contact MMS Cash (MCASH)
 
