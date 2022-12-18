@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.mcashpayment.com/" target="_blank">GO TO Website<br />
+    <a href="https://mcash-exchangepay.com/" target="_blank">GO TO Website<br />
     </a></h1>
 </div>
 
@@ -21,7 +21,7 @@ Staking is an easy way to earn rewards on your crypto whilst putting your digita
 
 # Contact MMS Cash (MCASH)
 
-⭕ Website: https://www.mcashpayment.com
+⭕ Website: https://mcash-exchangepay.com
 
 📄 Whitepaper : https://docs.mcashpayment.com
 
