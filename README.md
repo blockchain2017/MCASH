@@ -23,7 +23,7 @@ Staking is an easy way to earn rewards on your crypto whilst putting your digita
 
 ⭕ Website: https://mcash-exchangepay.com
 
-📄 Whitepaper : https://docs.mcashpayment.com
+📄 Whitepaper : https://mcash-exchangepay.com
 
 👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/mmsplatform
 
