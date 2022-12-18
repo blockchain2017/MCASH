@@ -1,4 +1,4 @@
-# Crypto marketplace for payment eCommerce Products,Staking, Payment gateway
+# Crypto for marketplace ,staking, payment gateway
 
 <div align="center"><img src="https://mms-soilminerals.com/wp-content/uploads/2022/11/logo.png)" /><br />
 </div>
